@@ -1,0 +1,1 @@
+export const GoogleMapApiConfig = 'AIzaSyAJ6G1lbC18Okh9im0O2gxqV_u83Yce1o8';
