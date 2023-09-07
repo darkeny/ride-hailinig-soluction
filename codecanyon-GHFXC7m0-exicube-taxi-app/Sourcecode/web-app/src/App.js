@@ -21,7 +21,7 @@ import AddMoney from "./views/AddMoney";
 import Withdraws from './views/Withdraws';
 import AllReports from "./views/AllReports";
 import { FirebaseProvider, store } from "common";
-import FirebaseConfig from './config/FirebaseConfig';
+import FirebaseConfig from './config/FirebaseConfig.js';
 import { GoogleMapApiConfig } from './config/GoogleMapApiConfig';
 import i18n from "i18next";
 import { initReactI18next } from "react-i18next";

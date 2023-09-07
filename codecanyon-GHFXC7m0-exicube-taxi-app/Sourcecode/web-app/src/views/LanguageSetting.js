@@ -17,7 +17,7 @@ import { makeStyles } from '@mui/styles';
 import TextField from '@mui/material/TextField';
 import {colors} from '../components/Theme/WebTheme';
 import { downloadCsv } from '../common/sharedFunctions';
-import FirebaseConfig from '../config/FirebaseConfig';
+import FirebaseConfig from '../config/FirebaseConfig.js';
 
 const useStyles = makeStyles((theme) => ({
   modal: {
